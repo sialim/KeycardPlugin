@@ -1,0 +1,4 @@
+name: KeycardPlugin
+version: '${project.version}'
+main: me.sialim.keycardplugin.KeycardPlugin
+api-version: '1.20'
